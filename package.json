@@ -33,6 +33,6 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
-    "sinon": "^7.2.5"
+    "sinon": "^7.5.0"
   }
 }
